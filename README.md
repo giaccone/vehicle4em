@@ -1,5 +1,3 @@
 # vehicle4em
-Vehicle CAD models for electromagnetic simulations.
-
-**We are working on the CAD to make them more homogeneous. They will be uploaded here as soon as possible.**
+This repository has been moved to [https://github.com/cadema-PoliTO/vehicle4em](https://github.com/cadema-PoliTO/vehicle4em)
 
